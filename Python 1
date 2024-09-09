@@ -1,0 +1,4 @@
+x = 345
+print(" print the declare value-", x)
+y = 507
+print(" print the re-declare value-", y)
